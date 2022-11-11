@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>clear.png</file>
+        <file>copy.png</file>
+        <file>paste.png</file>
+    </qresource>
+</RCC>
